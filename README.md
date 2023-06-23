@@ -1,4 +1,4 @@
-# authTddJes
+# authTddJest
 Projeto com login, e testes unitários e de integração TDD com jest. 
 
 dependencias: nodejs e docker.
