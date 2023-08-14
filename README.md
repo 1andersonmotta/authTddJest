@@ -6,6 +6,8 @@ Projeto com login, e testes unitários e de integração TDD com Jest.
 
 Aplicação desenvolvida com JavaScript, Docker, Jest e ORM Sequelize.
 
+- [Projeto Inspiração Rocketseat Diego Fernandes](https://www.youtube.com/watch?v=2G_mWfG0DZE)
+
 ## Pré-requisitos
 
 Visual Studio Code  
